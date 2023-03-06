@@ -51,7 +51,7 @@ manage.py	one\
 app		manage.py	one\
 (djanog_env) (base) xxx@xxx-iMac one app % cd ..\
 (djanog_env) (base) xxx@xxx-iMac one one % python manage.py runserver 0.0.0.0:8000 \
-open your browser, and type localhost:8000\
+open your browser, and type localhost:8000
 
-![image]("https://user-images.githubusercontent.com/17458027/223188494-1d252599-73cc-4c5b-9b5b-0305d6d21ae1.png")
+![image](https://user-images.githubusercontent.com/17458027/223189655-0e87ed38-9c72-4793-99f4-3e0258bfc982.png)
 
